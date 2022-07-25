@@ -1,0 +1,23 @@
+{
+  "name": "transactions-identifier",
+  "version": "1.0.0",
+  "description": "File in web3.js which reveals all transactions and show them using Infura node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrej656/Transactions-identifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrej656/Transactions-identifier/issues"
+  },
+  "homepage": "https://github.com/Andrej656/Transactions-identifier#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "web3": "^1.7.4"
+  }
+}

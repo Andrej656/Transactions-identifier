@@ -1,0 +1,25 @@
+let block = {
+    difficulty: '2',
+    gasLimit: 10000000,
+    gasUsed: 717165,
+    hash: '0xefc05b503b822c2eeafe4cad047a6aa1587e265ed19a98a1879a3be92ab1a3fb',
+    miner: '0x0000000000000000000000000000000000000000',
+    nonce: '0x0000000000000000',
+    number: 5482184,
+    parentHash: '0xa24520a2a06ba6109f047d21adc005fdcd958e6387ae131f7aa759f34e050d7b',
+    receiptsRoot: '0x1415c72a4b0445f43ef4e3842041678fc892aaa400dbe81d590fd26b67ccf299',
+    size: 2141,
+    stateRoot: '0x896053b3735393b14d5e60f7ecaf451a411282979251e9575c38d242153a0c04',
+    timestamp: 1574371917,
+    totalDifficulty: '9963369',
+    transactions: [
+      '0x1e24d68d560b22eeaad44e1bb2ac46784e4399961be27d90ccf94c7a7c0a1e11',
+      '0xfcd32835317de861531dabe578dc9234a0ff86f4e677e0189cb470858acf82d6',
+      '0xd0d6016e35c5f258b6bff6ab0d0676b1922465977337b0e7fbb6efd9f65c1c54',
+      '0x219d4906ebb7bd62dfba6383ea12e15b84548a2c05294acc0dd8553fb215ffc6'
+    ],
+    transactionsRoot: '0x654c7c354a484d5ad856779e1949b43a03055884a4ae0bf5ad4a6f71976a086d',
+    uncles: []
+  }
+
+
